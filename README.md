@@ -107,13 +107,13 @@ npm start
 ![Doctor Search](screenshots/topdoctors.png)
 
 ### Booking Appointment
-![Booking Appointment](screenshots/alldoctors.png.png)
+![Booking Appointment](screenshots/alldoctors.png)
 
 ### Doctor Portal
-![Doctor Portal](screenshots/doctors.png.png)
+![Doctor Portal](screenshots/doctors.png)
 
 ### Admin Dashboard
-![Admin Dashboard](screenshots/adminpanel.png.png)
+![Admin Dashboard](screenshots/adminpanel.png)
 
 ---
 
