@@ -4,9 +4,10 @@
 ---
 
 ## 🌐 Live Demo
-- **User Portal:** [ https://prescriptobyvedantfrontend.onrender.com ](#)  
-- **Doctor Portal:** [https://prescriptobyvedantadmin.onrender.com](#)  
-- **Admin Portal:** [https://prescriptobyvedantadmin.onrender.com](#)  
+- **User Portal**: [https://prescriptobyvedantfrontend.onrender.com](https://prescriptobyvedantfrontend.onrender.com)  
+- **Doctor Portal**: [https://prescriptobyvedantadmin.onrender.com](https://prescriptobyvedantadmin.onrender.com)  
+- **Admin Portal**: [https://prescriptobyvedantadmin.onrender.com](https://prescriptobyvedantadmin.onrender.com)  
+
 
 ## 📌 Overview
 **Prescripto** is a full-stack Doctor Appointment Management application where users can:
