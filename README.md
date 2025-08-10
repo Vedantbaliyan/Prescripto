@@ -101,19 +101,19 @@ npm start
 
 ## 📸 Screenshots
 ### Home Page
-![Home Page](Screenshot 2025-08-10 130302.png)
+![Home Page](screenshots/homepage.png)
 
 ### Doctor Search
-![Doctor Search](Screenshot 2025-08-10 130321.png)
+![Doctor Search](screenshots/topdoctors.png)
 
 ### Booking Appointment
-![Booking Appointment](Screenshot 2025-08-10 130343.png)
+![Booking Appointment](screenshots/alldoctors.png.png)
 
 ### Doctor Portal
-![Doctor Portal](Screenshot 2025-08-10 130415.png)
+![Doctor Portal](screenshots/doctors.png.png)
 
 ### Admin Dashboard
-![Admin Dashboard](Screenshot 2025-08-10 130446.png)
+![Admin Dashboard](screenshots/adminpanel.png.png)
 
 ---
 
