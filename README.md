@@ -8,6 +8,19 @@
 - **Doctor Portal**: [https://prescriptobyvedantadmin.onrender.com](https://prescriptobyvedantadmin.onrender.com)  
 - **Admin Portal**: [https://prescriptobyvedantadmin.onrender.com](https://prescriptobyvedantadmin.onrender.com)  
 
+### 🔑 Demo Credentials
+
+**User**  
+Email: user@prescripto.com
+Password: qwerty123
+
+**Admin**  
+Email: admin@prescripto.com
+Password: qwerty123
+
+**Doctor**  
+Email: admin@prescripto.com
+Password: qwerty123
 
 ## 📌 Overview
 **Prescripto** is a full-stack Doctor Appointment Management application where users can:
